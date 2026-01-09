@@ -1,3 +1,22 @@
 body {
+@charset "utf-8";
+body{
+	background-color:aqua;
+}
+img{
+	width:300px;
+}
+img:hover{
+	border: dotted 5px purple;
+	width:400px;
+	border-radius:30%;
+}
+h1{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-style: italic;
+}
+h1:hover{
+	text-decoration: underline 2px coral;
 
+}
 }
