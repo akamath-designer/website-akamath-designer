@@ -3,24 +3,24 @@
 <head>
 <meta charset="utf-8">
 
-<title>App Page</title>
+<title>App-Page</title>
 
 <link href="style.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
-	<ul>
-  <li><a href="index.html">Home</a></li>
-  <li><a href="App Page.html">My Apps</a></li>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="App Page.html">My Apps</a></li>
 
 </ul>
 
-	<center>
-		<h2>
-			My Apps
-		</h2>
-		<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/pBbCVPooE5oPExyTd52e2HAPlKdWAJY0LmEHXEsdu1R/embed?nosource"></iframe>
-		<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/nnBXNqic8zu3XxwwNZtJzpRTuAjbyadhr5eN2qrgCgg/embed?nosource"></iframe>
-	</center>
+<center>
+<h2>
+My Apps
+</h2>
+<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/pBbCVPooE5oPExyTd52e2HAPlKdWAJY0LmEHXEsdu1R/embed?nosource"></iframe>
+<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/nnBXNqic8zu3XxwwNZtJzpRTuAjbyadhr5eN2qrgCgg/embed?nosource"></iframe>
+</center>
 </body>
 </html>
