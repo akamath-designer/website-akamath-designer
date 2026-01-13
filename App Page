@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 
-<title>App-Page</title>
+<title>App Page</title>
 
 <link href="style.css" rel="stylesheet" type="text/css">
 </head>
@@ -12,7 +12,6 @@
 <ul>
 <li><a href="index.html">Home</a></li>
 <li><a href="App Page.html">My Apps</a></li>
-
 </ul>
 
 <center>
